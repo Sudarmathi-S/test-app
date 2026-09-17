@@ -1,0 +1,23 @@
+export const unitData = [
+  { "id": 1, "unit": "Unit 01" },
+  { "id": 2, "unit": "Unit 02" },
+  { "id": 3, "unit": "Unit 03" },
+  { "id": 4, "unit": "Unit 04" },
+  { "id": 5, "unit": "Unit 05" },
+  { "id": 6, "unit": "Unit 06" },
+  { "id": 7, "unit": "Unit 07" },
+  { "id": 8, "unit": "Unit 08" },
+  { "id": 9, "unit": "Unit 09" },
+  { "id": 10, "unit": "Unit 10" },
+  { "id": 11, "unit": "Unit 11" },
+  { "id": 12, "unit": "Unit 12" },
+  { "id": 13, "unit": "Unit 13" },
+  { "id": 14, "unit": "Unit 14" },
+  { "id": 15, "unit": "Unit 15" },
+  { "id": 16, "unit": "Unit 16" },
+  { "id": 17, "unit": "Unit 17" },
+  { "id": 18, "unit": "Unit 18" },
+  { "id": 19, "unit": "Unit 19" },
+  { "id": 20, "unit": "Unit 20" },
+  { "id": 21, "unit": "Unit 21" }
+];
